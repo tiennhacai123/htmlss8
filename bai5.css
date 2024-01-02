@@ -1,0 +1,12 @@
+.bg {
+    background-color: lightcyan;
+    width: 500px;
+   height: 150px;
+   font-size: 20px;
+}
+.transform:hover {
+    transition: all 0.3s;
+    margin-left: 20px;
+    color: red;
+    background-color: lightgray;
+}

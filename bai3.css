@@ -1,0 +1,13 @@
+.transform {
+    width: 300px;
+    height: 300px;
+    background-color: cyan;
+    transition: all 2s ease;
+}
+
+.transform:hover {
+    border-radius: 20%;
+    background-color: brown;
+    border-radius: 50%;
+    background-color: orange;
+}

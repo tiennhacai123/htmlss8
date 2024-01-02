@@ -1,0 +1,14 @@
+body {
+    margin: 30px;
+    height: 360px;
+    width: 300px;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    box-sizing: border-box;
+
+}
+.pd{
+    margin-left: 20px;
+    line-height: 1.5;
+    font-size: 20px;
+
+}
